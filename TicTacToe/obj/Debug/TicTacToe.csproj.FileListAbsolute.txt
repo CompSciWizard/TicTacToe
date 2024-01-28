@@ -48,3 +48,13 @@ C:\Users\james\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.Generate
 C:\Users\james\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
 C:\Users\james\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
 C:\Users\james\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Owner\Source\Repos\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

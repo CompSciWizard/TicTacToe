@@ -26,6 +26,7 @@ namespace TicTacToe
 
             //Game restarts everytime game loads
             RestartGame();
+
         }
 
         //Player Move Logic
@@ -34,8 +35,9 @@ namespace TicTacToe
             //Game is Over if true 
             if (isGameOver) return;
 
-            //Game is not Over...User is (X)
             var button = (Button)sender;
+         
+            //Game is not Over...User is (X)
             button.Text = "X";
             button.Enabled = false;
             button.BackColor = Color.ForestGreen;
@@ -59,7 +61,7 @@ namespace TicTacToe
             {
                 //random position is assigned
                 int index = random.Next(buttons.Count);
-                buttons[index].Enabled = true;
+                buttons[index].Enabled = false;
                 buttons[index].Text = "O";
                 buttons[index].BackColor = Color.DarkRed;
                 //remove position (button) from list so it's non-replayable
@@ -75,6 +77,8 @@ namespace TicTacToe
         private void RestartGame(object sender, EventArgs e)
         {
             RestartGame();
+            Record();
+            
         }
 
         //Restart Game logic
@@ -152,6 +156,7 @@ namespace TicTacToe
                 {
                     MessageBox.Show("Tie !");
                     listView1.Items.Add("Tie !");
+                    Record();
                     isGameOver = true;
                     RestartGame();
                 }
