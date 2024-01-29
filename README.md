@@ -1,1 +1,1 @@
-Revolutionizing the industries with the next-gen Tic Tac Toe product. 
+Best Tic-Tac-Toe Game around town.
